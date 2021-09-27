@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Tutorial to  Python &amp; Linux
 
-You can use the [editor on GitHub](https://github.com/upcschool-ai/tutorial-python-unix/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This tutorial has been prepared for the prospective students of the [UPC School Postgraduate on Artificial Intelligence with Deep Learning][UPCschool]. Its goal is providing tools for self-assessing the skills on Python and UNIX, required to follow the program.
+Instructions
 
-### Markdown
+[UPCschool]: https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgraduate-course-artificial-intelligence-deep-learning/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Complete two quizzes about Python & UNIX. If you feel confident with your answers, you probably do not need further preparation.
+2. If you struggled with the quizzes,  follow the video-tutorials for the Python and/or UNIX modules.  Write down any question that may arise.
+* Python I [[Video]][video-1] [[Colab]][colab-1]
+* Python II [[Video]][video-2] [[Colab]][colab-2]
+* Python III [[Video]][video-3] [[Colab]][colab-3]
+* Linux [[Video]][video-4] [[Colab]][colab-4]
+3. Repeat the quizzes and, if needed, re-take the video-lectures.
+4. If you still have questions, please inform the director of the program during the first day of the program. An additional interactive session with instructor will be scheduled to solve any pending issues.
 
-```markdown
-Syntax highlighted code block
+[colab-1]: https://colab.research.google.com/drive/1SZgYkzQ1W5hjfrBH6SkxeHEfYy5wDR8r?usp=sharing
+[colab-2]: https://colab.research.google.com/drive/1FaHwNnEHHB198BU9inXN1m5U0bx9V3UI?usp=sharing
+[colab-3]: https://colab.research.google.com/drive/100fyVuqOypcWVPsiHfvJ-jJQ1V3k3Aee?usp=sharing
+[colab-4]: https://colab.research.google.com/drive/1qKOULvb05DWAdVho28Kj15an4skBnqnT?usp=sharing
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/upcschool-ai/tutorial-python-unix/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[video-1]: https://drive.google.com/file/d/1mAokrRf0UtbGMFzLtq91jdCW29fOtKfl/view?usp=sharing
+[video-2]: https://drive.google.com/file/d/1b4ZBsuPhtx1tBI3Uzpg9t8dF14cy9-0T/view?usp=sharing
+[video-3]: https://drive.google.com/file/d/1D18T3mv7unLXF6gHtcKP4EmzQMHYWdAl/view?usp=sharing
+[video-4]: https://drive.google.com/file/d/1pB1lUrGJEZMA60Gjm2Ut_RmDKi2U2XBi/view?usp=sharing
