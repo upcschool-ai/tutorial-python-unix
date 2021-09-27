@@ -1,8 +1,10 @@
 # Tutorial to  Python &amp; Linux
 
 
-This tutorial has been prepared for the prospective students of the [UPC School Postgraduate on Artificial Intelligence with Deep Learning]. Its goal is providing tools for self-assessing the skills on Python and UNIX, required to follow the program.
+This tutorial has been prepared for the prospective students of the [UPC School Postgraduate on Artificial Intelligence with Deep Learning][UPCschool]. Its goal is providing tools for self-assessing the skills on Python and UNIX, required to follow the program.
 Instructions
+
+[UPCschool]: https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgraduate-course-artificial-intelligence-deep-learning/
 
 1. Complete two quizzes about Python & UNIX. If you feel confident with your answers, you probably do not need further preparation.
 2. If you struggled with the quizzes,  follow the video-tutorials for the Python and/or UNIX modules.  Write down any question that may arise.
