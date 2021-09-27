@@ -13,7 +13,7 @@ Instructions
 * Python III [[Video]][video-3] [[Colab]][colab-3]
 * Linux [[Video]][video-4] [[Colab]][colab-4]
 3. Repeat the quizzes and, if needed, re-take the video-lectures.
-4. If you still have questions, please inform the director of the program during the first day of the program. An additional interactive session with instructor will be scheduled to solve any pending issues.
+4. If you still have questions, please inform the director of the program during the first day of class. In this case, an additional interactive session with instructor will be scheduled to solve any pending issues, open all students of the program.
 
 [quiz-python]: https://docs.google.com/forms/d/e/1FAIpQLSflH9Sd8VGo2MviEw9XUFYPMrMgjgLS_2ZzuP9XMqLHE8C-7g/viewform?usp=sf_link
 [quiz-unix]: https://docs.google.com/forms/d/e/1FAIpQLSfBWflcS81xXPQlvwjM6YWlymLNYLi-8uQ1a0qM1Pgm414cQg/viewform?usp=sf_link
