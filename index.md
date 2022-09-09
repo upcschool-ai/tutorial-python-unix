@@ -23,7 +23,7 @@ Instructions
 [colab-3]: https://colab.research.google.com/github/upcschool-ai/tutorial-python-unix/blob/main/notebooks/tutorial_python_3.ipynb
 [colab-4]: https://colab.research.google.com/github/upcschool-ai/tutorial-python-unix/blob/main/notebooks/tutorial_linux_cli.ipynb
 
-[video-1]: https://drive.google.com/file/d/1mAokrRf0UtbGMFzLtq91jdCW29fOtKfl/view?usp=sharing
-[video-2]: https://drive.google.com/file/d/1b4ZBsuPhtx1tBI3Uzpg9t8dF14cy9-0T/view?usp=sharing
-[video-3]: https://drive.google.com/file/d/1D18T3mv7unLXF6gHtcKP4EmzQMHYWdAl/view?usp=sharing
-[video-4]: https://drive.google.com/file/d/1pB1lUrGJEZMA60Gjm2Ut_RmDKi2U2XBi/view?usp=sharing
+[video-1]: https://youtu.be/wEAkk_ycm4o
+[video-2]: https://youtu.be/civb1rgEqMM
+[video-3]: https://youtu.be/zpaC53et-W8
+[video-4]: https://youtu.be/wBOOVG6wW1Y
