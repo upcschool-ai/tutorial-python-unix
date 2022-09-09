@@ -18,10 +18,10 @@ Instructions
 [quiz-python]: https://docs.google.com/forms/d/e/1FAIpQLSflH9Sd8VGo2MviEw9XUFYPMrMgjgLS_2ZzuP9XMqLHE8C-7g/viewform?usp=sf_link
 [quiz-unix]: https://docs.google.com/forms/d/e/1FAIpQLSfBWflcS81xXPQlvwjM6YWlymLNYLi-8uQ1a0qM1Pgm414cQg/viewform?usp=sf_link
 
-[colab-1]: https://colab.research.google.com/drive/1SZgYkzQ1W5hjfrBH6SkxeHEfYy5wDR8r?usp=sharing
-[colab-2]: https://colab.research.google.com/drive/1FaHwNnEHHB198BU9inXN1m5U0bx9V3UI?usp=sharing
-[colab-3]: https://colab.research.google.com/drive/100fyVuqOypcWVPsiHfvJ-jJQ1V3k3Aee?usp=sharing
-[colab-4]: https://colab.research.google.com/drive/1qKOULvb05DWAdVho28Kj15an4skBnqnT?usp=sharing
+[colab-1]: https://colab.research.google.com/github/upcschool-ai/tutorial-python-unix/blob/main/notebooks/tutorial_python_1.ipynb
+[colab-2]: https://colab.research.google.com/github/upcschool-ai/tutorial-python-unix/blob/main/notebooks/tutorial_python_2.ipynb
+[colab-3]: https://colab.research.google.com/github/upcschool-ai/tutorial-python-unix/blob/main/notebooks/tutorial_python_3.ipynb
+[colab-4]: https://colab.research.google.com/github/upcschool-ai/tutorial-python-unix/blob/main/notebooks/tutorial_linux_cli.ipynb
 
 [video-1]: https://drive.google.com/file/d/1mAokrRf0UtbGMFzLtq91jdCW29fOtKfl/view?usp=sharing
 [video-2]: https://drive.google.com/file/d/1b4ZBsuPhtx1tBI3Uzpg9t8dF14cy9-0T/view?usp=sharing
